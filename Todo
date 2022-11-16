@@ -1,0 +1,20 @@
+FAIT : Tout centraliser autour de fichiers index
+
+TODO : Info entreprise, manque consentement RGPD du salarié enregistré en référent
+TODO : Liste des commandes et suivi de la situation
+TODO : Réclamation RGPD
+TODO : Log des usages et des évènements incongrus
+TODO : Problème du premier mot de passe
+TODO : Problème du renouvellement de mot de passe
+Fait : niveau d'autorisation
+
+Pas de niveau d'autoristion
+RGPD
+pas log
+pas csrf
+
+Taches étudiants :
+Pbm mot de passe : Création nouvel utilisateur
+Pbm droit : tout le monde peut tout faire
+pbm verification complexité mot de passe
+
